@@ -1,6 +1,6 @@
 # Penetration-Testing-Resources
 
-Following are some good resources to start- 
+Following are some good resources which I followed to start- 
 
 **Bug Bounty Dorks to find programs** - https://github.com/sushiwushi/bug-bounty-dorks/blob/master/dorks.txt
 
