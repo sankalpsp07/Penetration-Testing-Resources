@@ -16,6 +16,8 @@ Following are some good resources which I followed to start-
 
 **Web Application Penetration Testing** - https://www.youtube.com/playlist?list=PLLKT__MCUeixCoi2jtP2Jj8nZzM4MOzBL
 
+https://reconshell.com/bug-bounty-resources/
+
 Other Youtube Channels - Hackersera, Hackersploit. 
 
 Also, particularly for bug bounty, you can search Proof of concept Videos on youtube for a particular vulnerability. Some people upload them on youtube after the bug is fixed.
