@@ -10,6 +10,8 @@ Following are some good resources which I followed to start-
 
 **Vulnerability Details** (How to find,tools to use,references- this is most informative github repo)- https://github.com/swisskyrepo/PayloadsAllTheThings
 
+**How to hunt** - https://github.com/KathanP19/HowToHunt
+
 
 **Network Penetration testing** - https://www.youtube.com/playlist?list=PLLKT__MCUeiwBa7d7F_vN1GUwz_2TmVQj
 
