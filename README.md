@@ -12,6 +12,8 @@ Following are some good resources which I followed to start-
 
 **How to hunt** - https://github.com/KathanP19/HowToHunt
 
+https://gowthams.gitbook.io/bughunter-handbook/checklists
+
 
 **Network Penetration testing** - https://www.youtube.com/playlist?list=PLLKT__MCUeiwBa7d7F_vN1GUwz_2TmVQj
 
