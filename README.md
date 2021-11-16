@@ -4,6 +4,8 @@ Following are some good resources which I followed to start-
 
 **Bug Bounty Dorks to find programs** - https://github.com/sushiwushi/bug-bounty-dorks/blob/master/dorks.txt
 
+**Burpsuite Basics:** https://www.youtube.com/watch?v=m3LdoqYDyuI&list=PLkW9FMxqUvybgx3pI9x9HyU-_HcJJFWQY
+
 **Payload Lists** - https://github.com/danielmiessler/SecLists/
 
 **Hackerone reports** - https://github.com/reddelexc/hackerone-reports
@@ -25,3 +27,6 @@ https://reconshell.com/bug-bounty-resources/
 Other Youtube Channels - Hackersera, Hackersploit. 
 
 Also, particularly for bug bounty, you can search Proof of concept Videos on youtube for a particular vulnerability. Some people upload them on youtube after the bug is fixed.
+
+
+PS: Nothing is sponsered, these resources I used for bug bounty. 
