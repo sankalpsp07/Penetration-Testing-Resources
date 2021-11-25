@@ -22,6 +22,8 @@ https://gowthams.gitbook.io/bughunter-handbook/checklists
 
 **Web Application Penetration Testing** - https://www.youtube.com/playlist?list=PLLKT__MCUeixCoi2jtP2Jj8nZzM4MOzBL
 
+**Bug Bounty Roadmap** - https://github.com/1ndianl33t/Bug-Bounty-Roadmaps
+
 https://reconshell.com/bug-bounty-resources/
 
 Other Youtube Channels - Hackersera, Hackersploit. 
