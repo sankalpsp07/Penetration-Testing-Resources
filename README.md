@@ -24,6 +24,8 @@ https://gowthams.gitbook.io/bughunter-handbook/checklists
 
 **Bug Bounty Roadmap** - https://github.com/1ndianl33t/Bug-Bounty-Roadmaps
 
+**Some more resources** - https://github.com/1ndianl33t/Bugbounty-Resources
+
 https://reconshell.com/bug-bounty-resources/
 
 Other Youtube Channels - Hackersera, Hackersploit. 
