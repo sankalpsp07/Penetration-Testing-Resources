@@ -1,4 +1,5 @@
 # Penetration-Testing-Resources
+# Bug Bounty Resources 
 
 Following are some good resources which I followed to start- 
 
