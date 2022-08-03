@@ -1,7 +1,7 @@
 # Penetration-Testing-Resources
 # Bug Bounty Resources 
 
-Following are some good resources which I followed to start- 
+Following are some good resources -  
 
 **Bug Bounty Dorks to find programs** - https://github.com/sushiwushi/bug-bounty-dorks/blob/master/dorks.txt
 
@@ -34,4 +34,4 @@ Other Youtube Channels - Hackersera, Hackersploit.
 Also, particularly for bug bounty, you can search Proof of concept Videos on youtube for a particular vulnerability. Some people upload them on youtube after the bug is fixed.
 
 
-PS: Nothing is sponsered, these resources I used for bug bounty. 
+PS: Nothing is sponsered.
